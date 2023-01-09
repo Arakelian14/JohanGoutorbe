@@ -1,4 +1,4 @@
-<p align="center"; text-decoration="none"; color="auto"><a href="https://github.com/JohanGoutorbe" alt="GitHub Link"> Hello everyone! I'm Arakelian<br/>I do open source :)</a></p>
+<p align="center"><a href="https://github.com/JohanGoutorbe" alt="GitHub Link"> Hello everyone! I'm Arakelian<br/>I do open source :)</a></p>
 
   // Do the PNG Image with : 
   //  Hello everyone! I'm Arakelian
