@@ -1,8 +1,8 @@
-<p align="center"><a href="https://github.com/JohanGoutorbe" alt="GitHub Link"> Hello everyone! I'm Arakelian<br/>I do open source :)</a></p>
+<p align="center"; text-decoration="none"; color="auto"><a href="https://github.com/JohanGoutorbe" alt="GitHub Link"> Hello everyone! I'm Arakelian<br/>I do open source :)</a></p>
 
   // Do the PNG Image with : 
   //  Hello everyone! I'm Arakelian
-  //        I do open source :)
+  //     I do open source :)
   
 ## Who Am I ?
 - 👋 Hi, I’m @Arakelian on the Internet and beyond.
